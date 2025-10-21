@@ -1,4 +1,4 @@
-# Conditional Statements in Python: Even or Odd Checker
+# Conditional Statements in Python: Strong Number or Not Strong Number 
 
 ## 🎯 Aim
 To Write a Python  program to read a value and check whether a number is equal to 145 (strong number) using if-else statement.
