@@ -1,7 +1,7 @@
 # Conditional Statements in Python: Even or Odd Checker
 
 ## 🎯 Aim
-To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.
+To Write a Python  program to read a value and check whether a number is equal to 145 (strong number) using if-else statement.
 
 ## 🧠 Algorithm
 1. Get an input from the user.
@@ -13,11 +13,12 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 ```
-a=int(input(enter number:))
-if a%2==0:
-    print("EVEN")
-else:
-    print("ODD")
+n=int(input())
+if n<=11:
+    print("Number is NOT a strong number")
+elif n>11:
+    print("Number is a strong number")
+
 ```
 
 ## Output
