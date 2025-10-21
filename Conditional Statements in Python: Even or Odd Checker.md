@@ -4,12 +4,12 @@
 To Write a Python  program to read a value and check whether a number is equal to 145 (strong number) using if-else statement.
 
 ## 🧠 Algorithm
-1. Get an input from the user.
-2. Convert the input to an integer and store it in a variable `a`.
-3. Use the modulo operator `%` to check if `a % 2 == 0`.
-   - If true, print `"EVEN"`.
-   - Else, print `"ODD"`.
-4. End the program.
+1.Get an input from the user.
+2.Convert the input to an integer and store it in a variable n.
+3.Check if n ≤ 11.
+4.If true, print "Number is NOT a strong number".
+5.Else, print "Number is a strong number".
+6.End the program.
 
 ## 🧾 Program
 ```
@@ -22,7 +22,9 @@ elif n>11:
 ```
 
 ## Output
-<img width="1630" height="346" alt="Screenshot 2025-10-21 085731" src="https://github.com/user-attachments/assets/4c5211b3-3d6d-41df-9058-ea5764794190" />
+<img width="818" height="232" alt="image" src="https://github.com/user-attachments/assets/dfc3d148-f8f1-42a3-809d-e8bc6258cafa" />
+
+
 
 
 
