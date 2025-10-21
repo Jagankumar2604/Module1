@@ -32,4 +32,4 @@ elif n>11:
 
 
 ## Result
-Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully.
+Thus,the Python program to check whether a number is equal to 145 (strong number) using if-else statements is executed successfully.
