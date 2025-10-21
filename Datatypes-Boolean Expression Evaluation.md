@@ -27,7 +27,8 @@ print("d:", d)
 ```
 
 ## Output
-<img width="1630" height="346" alt="Screenshot 2025-10-21 085731" src="https://github.com/user-attachments/assets/211fd064-437f-4b16-b85d-a1272a1fc514" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-20 231044" src="https://github.com/user-attachments/assets/4ed33cd8-965b-4f8a-950b-31bbf7510621" />
+
 
 
 ## Result
