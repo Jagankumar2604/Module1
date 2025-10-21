@@ -5,12 +5,12 @@ To Write a Python  program to read a value and check whether a number is equal t
 
 ## 🧠 Algorithm
 
-    Get an input from the user.
-    Convert the input to an integer and store it in a variable n.
-    Check if n ≤ 11.
-    If true, print "Number is NOT a strong number".
-    Else, print "Number is a strong number".
-    End the program.
+   1. Get an input from the user.
+   2. Convert the input to an integer and store it in a variable n.
+   3.Check if n ≤ 11.
+4.If true, print "Number is NOT a strong number".
+5.Else, print "Number is a strong number".
+6.End the program.
 
 
 
