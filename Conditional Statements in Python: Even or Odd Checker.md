@@ -21,7 +21,8 @@ else:
 ```
 
 ## Output
-![Uploading Screenshot 2025-10-21 085731.png…]()
+<img width="1630" height="346" alt="Screenshot 2025-10-21 085731" src="https://github.com/user-attachments/assets/4c5211b3-3d6d-41df-9058-ea5764794190" />
+
 
 
 
