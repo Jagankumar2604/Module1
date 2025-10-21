@@ -27,7 +27,8 @@ print("d:", d)
 ```
 
 ## Output
-![Uploading Screenshot 2025-10-20 231044.png…]()
+<img width="1630" height="346" alt="Screenshot 2025-10-21 085731" src="https://github.com/user-attachments/assets/211fd064-437f-4b16-b85d-a1272a1fc514" />
+
 
 ## Result
 Thus the Python program of boolean and arithmetic expressions involving `True` and `False`is Executed successfully.
